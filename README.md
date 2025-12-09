@@ -1,4 +1,10 @@
 # Symmetric FIR Filter
+## Verification Setup
+<img width="681" height="478" alt="myModulator-FIR_verification drawio" src="https://github.com/user-attachments/assets/1871fd54-7ce6-4d1d-8272-3e36a4c88a2c" />
+
+## Figure
+<img width="1437" height="1007" alt="output" src="https://github.com/user-attachments/assets/3fcde886-24ae-46ef-ba3b-8f60d27bb0fd" />
+
 ## Block Diagram
 <img width="935" height="797" alt="myModulator-FIR drawio" src="https://github.com/user-attachments/assets/06927698-316a-4004-8283-c3f1cee147fa" />
 
